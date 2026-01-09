@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
+# About Me:
 I am currently working on AWS and DevOps Projects to meet automation and scalability 
 
 
